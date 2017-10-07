@@ -21,28 +21,28 @@ header={
     }
 
 # 可修改参数，相册名称、id、开始和结尾的index
-alubmName = u'裸照'
+alubmName = u'美照'
 topicId = 'V10OuqVo0Gm1sY'
 pageStart = '1001'
 pageNumer = '1085'
 cookie={
         "RK": "rHmXL4f+ZH",
         "__Q_w_s__QZN_TodoMsgCnt": "1",
-        "o_cookie": "394321749",
+        "o_cookie": "38432178",
         "p_skey": "TgQ8fUCTCF*qfvMQvP0VuHhzouyesu10pqf7MkiZm-g_",
-        "p_uin": "o2437979300",
+        "p_uin": "o2987979300",
         "pgv_info": "ssid=s9482845211",
         "pgv_pvi": "4779133952",
         "pgv_pvid": "1823440060",
         "pgv_si": "s6132285440",
-        "pt2gguin": "o2437979300",
+        "pt2gguin": "o2987979300",
         "pt4_token": "cXN*YwLB2aNdrcC1qFxWfJYNP*54jYLmv*bqeWjb358_",
         "ptcz": "56d8dae9d308f7721534d13d1220061631f0727f94aa626b6b464992b7b48100",
         "ptisp": "cm",
-        "ptui_loginuin": "931978415",
+        "ptui_loginuin": "9381978315",
         "skey": "@R67NUEDe2",
         "tvfe_boss_uuid": "96e0189fb9f47dc0",
-        "uin": "o2437979300",
+        "uin": "o2987979300",
         "verifysession": "h017d8b9b9bc79d6c9d656120071785a35ae8d37e28f55fa3245c4ad306443014daffc47e4c76deba8a",
         "zzpanelkey": "",
         "zzpaneluin": ""
@@ -56,7 +56,7 @@ param = (
     ('hostUin', '3076137119'),
     ('topicId', topicId),
     ('noTopic', '0'),
-    ('uin', '2437979300'),
+    ('uin', '2987979300'),
     ('pageStart', pageStart),
     ('pageNum', pageNumer),
     ('skipCmtCount', '0'),
