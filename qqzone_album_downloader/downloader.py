@@ -49,7 +49,7 @@ def downloadJpg(u):
 if __name__ == '__main__':
     t = get_local_time()
     print t
-    for u in get_urls(u'裸照'):
+    for u in get_urls(u'美照'):
         downloadJpg(u)
 
 
